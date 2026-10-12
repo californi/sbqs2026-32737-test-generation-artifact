@@ -1,0 +1,82 @@
+{
+  "file_count": 129,
+  "counts": {
+    "Common Lang CodexTest": {
+      "files": 10,
+      "python_sources": 0,
+      "java_sources": 9,
+      "python_test_definitions": 0,
+      "java_test_annotations": 27
+    },
+    "Common Lang DeepSeekTest": {
+      "files": 10,
+      "python_sources": 0,
+      "java_sources": 9,
+      "python_test_definitions": 0,
+      "java_test_annotations": 27
+    },
+    "Common Lang RandoopTest": {
+      "files": 10,
+      "python_sources": 0,
+      "java_sources": 10,
+      "python_test_definitions": 0,
+      "java_test_annotations": 3019
+    },
+    "CookieCutter CodexTest": {
+      "files": 34,
+      "python_sources": 16,
+      "java_sources": 0,
+      "python_test_definitions": 62,
+      "java_test_annotations": 0
+    },
+    "CookieCutter DeepSeekTest": {
+      "files": 34,
+      "python_sources": 16,
+      "java_sources": 0,
+      "python_test_definitions": 62,
+      "java_test_annotations": 0
+    },
+    "CookieCutter PynguinTests": {
+      "files": 30,
+      "python_sources": 15,
+      "java_sources": 0,
+      "python_test_definitions": 111,
+      "java_test_annotations": 0
+    },
+    "README.md": {
+      "files": 1,
+      "python_sources": 0,
+      "java_sources": 0,
+      "python_test_definitions": 0,
+      "java_test_annotations": 0
+    }
+  },
+  "identical_python_files_across_assistant_folders": [
+    "generation_report.md",
+    "Test_repository.py",
+    "Test_replay.py",
+    "Test_utils.py",
+    "Test_zipfile.py",
+    "Test_prompt.py",
+    "Test_extensions.py",
+    "Test_exceptions.py",
+    "Test_generate.py",
+    "Test_log.py",
+    "Test_find.py",
+    "Test_hooks.py",
+    "Test___main__.py",
+    "Test_config.py",
+    "Test_cli.py",
+    "Test_vcs.py",
+    "Test_environment.py"
+  ],
+  "python_reports": {
+    "recorded_cases": 62,
+    "recorded_total_seconds": 7.15,
+    "recorded_mean_seconds": 0.45,
+    "reported_validation": "62 passed in 0.98s"
+  },
+  "java_coverage_notes": "Two identical placeholder notes state coverage will be filled after execution.",
+  "coverage_and_mutation_reports_found": false,
+  "scope": "Static inspection only; no tests or experiments executed."
+}

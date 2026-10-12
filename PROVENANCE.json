@@ -1,0 +1,11 @@
+{
+  "source_url": "https://anonymous.4open.science/r/TestsV-V-3BAC/",
+  "download_url": "https://anonymous.4open.science/api/repo/TestsV-V-3BAC/zip",
+  "retrieved_on": "2026-10-12",
+  "source_zip_sha256": "193032ad09691de2cc0ca4886e1061f077500979e4449ce7ab9e8cca2fe595cd",
+  "source_file_count": 129,
+  "preservation": "Every file in original-public-snapshot retains identical bytes and relative path from the public ZIP.",
+  "changes": "Added identified documentation, file manifest, public snapshot observations; no test/source/report edits.",
+  "experiment_execution": "None during preparation.",
+  "publication_exclusions": "No manuscript, peer reviews, private review spreadsheets, or private attachments included."
+}
